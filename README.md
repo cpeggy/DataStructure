@@ -6,3 +6,5 @@
 ### 課程簡報
 ### 回家練習
 ## 作業繳交區
+### [作業1_]
+#### [Reference1](https://ithelp.ithome.com.tw/articles/10213258)
