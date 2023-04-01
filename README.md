@@ -5,6 +5,7 @@
 ## 課程內容
 ### 課程簡報
 ### 回家練習
+#### [Week6](https://github.com/cpeggy/DataStructure/blob/main/week6.ipynb)
 ## 作業繳交區
 ### [作業1_Prefix Sum](https://leetcode.com/problems/longest-common-prefix/submissions/913302188/)
 ### [作業1_String](https://leetcode.com/problems/reverse-string/submissions/913853909/)
