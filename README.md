@@ -15,3 +15,4 @@
 #### [Reference2](https://clay-atlas.com/blog/2021/01/07/leetcode-cn-14-longest-common-prefix-solution/)
 ### [作業2_影片](https://youtu.be/_sYzePUEy70)
 ### [作業3_影片](https://youtu.be/xBJt0gwqgWU)
+### [作業4_影片](https://youtu.be/sNGpEUCwxIQ)
