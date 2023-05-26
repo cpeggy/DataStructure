@@ -17,3 +17,5 @@
 ### [作業3_影片](https://youtu.be/xBJt0gwqgWU)
 ### [作業4_影片](https://youtu.be/sNGpEUCwxIQ)
 ### [作業5_影片](https://youtu.be/G8XPdZfekis)
+## 期末刷題成果
+![期末影片注意事項]
