@@ -18,4 +18,5 @@
 ### [作業4_影片](https://youtu.be/sNGpEUCwxIQ)
 ### [作業5_影片](https://youtu.be/G8XPdZfekis)
 ## 期末刷題成果
+### [期末刷題_影片](https://youtu.be/dCBZxEWTzvo)
 ![期末影片注意事項](https://github.com/cpeggy/DataStructure/blob/main/messageImage_1685116156234.jpg)
